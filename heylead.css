@@ -965,9 +965,21 @@ box-shadow: 0 0 10px grey;
 padding: .6rem;
 text-align: center;
 padding-bottom: 2rem;
+ color:black;
 }
 
 
+    .centered2 .section1 .block p{
+     color:black;
+    }   
+         
+    .centered2 .section2 .block p{
+     color:black;
+    }  
+        
+    .centered2 .section3 .block p{
+     color:black;
+    }  
 
 .section1{
     justify-content: center;
