@@ -996,6 +996,10 @@ flex-wrap: wrap;
 display: flex;
 }
 
+    .block p{
+     color:black;
+    }   
+     
 }
 
 @media(max-width:810px){
