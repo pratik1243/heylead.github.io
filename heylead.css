@@ -996,10 +996,17 @@ flex-wrap: wrap;
 display: flex;
 }
 
-    .block p{
+    .centered2 .section1 .block p{
      color:black;
     }   
-     
+         
+    .centered2 .section2 .block p{
+     color:black;
+    }  
+        
+    .centered2 .section3 .block p{
+     color:black;
+    }  
 }
 
 @media(max-width:810px){
