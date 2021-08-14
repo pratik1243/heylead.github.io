@@ -1153,6 +1153,7 @@ transform: scale(1);
 font-weight: bold;
 margin-top: 2rem;
 text-transform: capitalize;
+color:black;    
 }
 
 
@@ -1161,7 +1162,8 @@ text-transform: capitalize;
     color: rgb(179, 176, 176);
     font-weight: lighter;
     margin-top: 3rem;
-    margin: .6rem;    
+    margin: .6rem; 
+    color:black;
     }
 
 
