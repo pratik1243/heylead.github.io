@@ -225,15 +225,11 @@ display: none;
 
 @media(max-width:950px){
 
-#slider #slider1{
-width: 900px;
-overflow-x: scroll;
-}
 
 
 #slider1 #slides1{
 padding: 2rem;  
-width: 205%;
+width: auto;
 }
 
 
@@ -246,23 +242,13 @@ margin-left: 2rem;
 }
 
 
-@media(max-width:730px){
-
-
-    #slider #slider1{
-        width: 1200px;
-        overflow-x: scroll;
-        }
-     
-}
-
 
 
 @media(max-width:456px){
 
     #slider1 #slides1{    
         padding: 2rem;  
-        width: 220%;        
+        width: auto;        
         }     
 }
 
