@@ -951,20 +951,20 @@ box-shadow: 0 0 10px grey;
 padding: .6rem;
 text-align: center;
 padding-bottom: 2rem;
- color:grey;
+ 
 }
 
 
     .centered2 .section1 .block p{
-     color:black;
+     color:grey;
     }   
          
     .centered2 .section2 .block p{
-     color:black;
+     color:grey;
     }  
         
     .centered2 .section3 .block p{
-     color:black;
+     color:grey;
     }  
 
 .section1{
@@ -994,17 +994,6 @@ flex-wrap: wrap;
 display: flex;
 }
 
-    .centered2 .section1 .block p{
-     color:black;
-    }   
-         
-    .centered2 .section2 .block p{
-     color:black;
-    }  
-        
-    .centered2 .section3 .block p{
-     color:black;
-    }  
 }
 
 @media(max-width:810px){
@@ -1145,10 +1134,11 @@ color:black;
 
 .block p{
     font-family: 'Josefin Sans', sans-serif;
-    font-weight: lighter;
+    font-weight: bold;
     margin-top: 3rem;
     margin: .6rem; 
     color:grey;
+    
     }
 
 
