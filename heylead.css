@@ -1145,11 +1145,10 @@ color:black;
 
 .block p{
     font-family: 'Josefin Sans', sans-serif;
-    color: rgb(179, 176, 176);
     font-weight: lighter;
     margin-top: 3rem;
     margin: .6rem; 
-    color:black;
+    color:grey;
     }
 
 
