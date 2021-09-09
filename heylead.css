@@ -1008,7 +1008,7 @@ display: flex;
 
 .block{
 height: 260px;
-width: 300px;
+width: auto;
 }
        
 }
