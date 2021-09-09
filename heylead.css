@@ -1011,30 +1011,7 @@ height: 260px;
 width: auto;
 }
        
-}
 
-@media(max-width:680px){
-
-.block{
-width: 370px;
-}
-   
-}
-    
-
-    @media(max-width:465px){
-
-    .block{        
-width: 320px;
-    }
-        
-        }        
-
-        @media(max-width:380px){
-
-.block{
-width: 300px;
-}
             
     }   
  
