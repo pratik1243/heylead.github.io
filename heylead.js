@@ -27,7 +27,7 @@ let indexes=0;
 function left() {
    
     
-            indexes = indexes + 1;
+            indexes = indexes - 1;
             let sliders = document.getElementById('slider1');
             let a = sliders.children[parseInt(indexes)];
             a.scrollIntoView(true);
@@ -35,7 +35,7 @@ function left() {
 
 function right() {    
         
-            indexes = indexes - 1;
+            indexes = indexes + 1;
             let sliders = document.getElementById('slider1');
             let a = sliders.children[parseInt(indexes)];
             a.scrollIntoView(true);
