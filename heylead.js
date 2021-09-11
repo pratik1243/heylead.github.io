@@ -22,23 +22,16 @@ function small() {
     menudiv.style.width = "0%";
 }
 
-let indexes=0;
-
 function left() {
    
-    
-            indexes = indexes - 1;
-            let sliders = document.getElementById('slider1');
-            let a = sliders.children[parseInt(indexes)];
-            a.scrollIntoView(true);
+     let slides1 = document.getElementById('slides1');
+    slides1.scrollTo(1400, 0);
 }
 
 function right() {    
+       let slides1 = document.getElementById('slides1');
+    slides1.scrollTo(0, 0);  
         
-            indexes = indexes + 1;
-            let sliders = document.getElementById('slider1');
-            let a = sliders.children[parseInt(indexes)];
-            a.scrollIntoView(true);
 }
 
 
