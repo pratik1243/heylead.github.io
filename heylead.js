@@ -24,13 +24,13 @@ function small() {
 
 function left() {
    
-     let slides1 = document.getElementById('slides1');
-    slides1.scrollTo(1400, 0);
+     let slider1 = document.getElementById('slider1');
+    slider1.scrollTo(1400, 0);
 }
 
 function right() {    
-       let slides1 = document.getElementById('slides1');
-    slides1.scrollTo(0, 0);  
+       let slider1 = document.getElementById('slider1');
+    slider1.scrollTo(0, 0);  
         
 }
 
