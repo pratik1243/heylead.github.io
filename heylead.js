@@ -42,5 +42,5 @@ function scrollleft() {
 
 function scrollright() {
     let blogcontent = document.getElementById('blog-content');
-    blogcontent.scrollTo(1400, 0);
+    blogcontent.scrollTo(2000, 0);
 }
